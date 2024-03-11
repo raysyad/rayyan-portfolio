@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rayyan-portfolio/static/css/main.6e49e38e.css",
+    "main.js": "/rayyan-portfolio/static/js/main.e8c88698.js",
+    "static/js/453.be4325fe.chunk.js": "/rayyan-portfolio/static/js/453.be4325fe.chunk.js",
+    "static/media/rayyan-Cv.pdf": "/rayyan-portfolio/static/media/rayyan-Cv.64ce3c71612e75d68287.pdf",
+    "static/media/work6.jpg": "/rayyan-portfolio/static/media/work6.728b3e6360622c84147e.jpg",
+    "static/media/work4.jpg": "/rayyan-portfolio/static/media/work4.fb5e5ee5668e7b76b90f.jpg",
+    "static/media/work2.jpg": "/rayyan-portfolio/static/media/work2.331ec12cd4cff407f252.jpg",
+    "static/media/work9.jpg": "/rayyan-portfolio/static/media/work9.3de723818ab1397d1302.jpg",
+    "static/media/work8.jpg": "/rayyan-portfolio/static/media/work8.704c4e7878afd9e5afdb.jpg",
+    "static/media/profile.jpg": "/rayyan-portfolio/static/media/profile.5fa35ebf118a62762380.jpg",
+    "static/media/work7.jpg": "/rayyan-portfolio/static/media/work7.2ac29c164ee59172351b.jpg",
+    "static/media/work3.jpg": "/rayyan-portfolio/static/media/work3.f6600ba237ebcca44150.jpg",
+    "static/media/work5.jpg": "/rayyan-portfolio/static/media/work5.34387ae48c73abaed08c.jpg",
+    "static/media/work1.jpg": "/rayyan-portfolio/static/media/work1.ef3b54a4f87b14ede1ad.jpg",
+    "static/media/about.jpg": "/rayyan-portfolio/static/media/about.882ab063ce8e9f2a1905.jpg",
+    "index.html": "/rayyan-portfolio/index.html",
+    "main.6e49e38e.css.map": "/rayyan-portfolio/static/css/main.6e49e38e.css.map",
+    "main.e8c88698.js.map": "/rayyan-portfolio/static/js/main.e8c88698.js.map",
+    "453.be4325fe.chunk.js.map": "/rayyan-portfolio/static/js/453.be4325fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e49e38e.css",
+    "static/js/main.e8c88698.js"
+  ]
+}
